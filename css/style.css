@@ -1,0 +1,21 @@
+h1 {
+      color: red;
+      font-size: 40px;
+      text-align: center;
+}
+
+.bild1 {
+      display:flex;
+	    width: 500px;
+      justify-content: center;
+}
+
+.lista1 {
+      font-size: 100px;
+      text-align: center;
+}
+
+.text1 {
+      text-align: center;
+
+}
